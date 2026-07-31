@@ -5,8 +5,8 @@
 %global crate slotmap
 
 Name:           rust-%{crate}
-Version:        0.4.0
-Release:        2%{?dist}
+Version:        1.1.1
+Release:        1%{?dist}
 Summary:        Slotmap data structure
 
 # Upstream license specification: Zlib
